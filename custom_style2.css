@@ -218,6 +218,8 @@ header ul li a:hover {
     animation-delay: 1.5s;
 }
 
+
+
 @keyframes fase_in {
     0% {
         opacity: 0;
