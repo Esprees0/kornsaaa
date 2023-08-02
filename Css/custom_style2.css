@@ -197,12 +197,12 @@ header ul li a:hover {
 
 .cus_social li .i-item i {
     font-size: 40px;
-    color: #fff;
+    color: #2da15a;
 }
 
 
 .cus_social li .i-item:hover{
-    background-color: var(--pink);
+    background-color: black ;
     transform: translateY(-10px);
 
 }
