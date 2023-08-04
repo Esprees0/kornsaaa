@@ -1,0 +1,11 @@
+body {
+    min-height: 100vh;
+    margin-bottom: 5%;
+    background-image: linear-gradient(245deg,rgb(40, 124, 235),#312dfa,rgb(185, 155, 255),rgb(206, 65, 235));
+}
+
+ul a{
+    margin-bottom: 50px;
+    padding: flex;
+    justify-content: center;
+}
